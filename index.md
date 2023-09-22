@@ -4,3 +4,5 @@
 #### Header 4
 ##### Header 5
 ###### header 6
+## Cherry Blossoms
+![Image of Cherry Blossoms](https://www.vistaresidences.com.ph/assets/sakura-season-or-cherry-blossom-_-japanese-condo-in-the-philippines_11zon.jpg)
