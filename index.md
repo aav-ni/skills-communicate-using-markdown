@@ -17,3 +17,7 @@ Initialized empty Git repository
 var Hello = "Hello, world!";
 ```
 
+#### TASK LIST
+- [x] Intro to GitHub
+- [ ] Markdown
+- [ ] GitHub Pages
